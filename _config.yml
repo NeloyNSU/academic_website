@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Asif Ahmed Neloy"
-  avatar           : "profile.png"
+  avatar           : "1.jpg"
   bio              : "Information Analyst and Lab Instructor"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
