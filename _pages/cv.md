@@ -11,7 +11,7 @@ redirect_from:
 
 Education <i class="fa fa-university" aria-hidden="true"></i>
 ======
-* **North South University**, Bashundhara R/A, Dhaka 1229, Bangladesh<br/> 
+* **North South University**, <sub>Bashundhara R/A, Dhaka 1229, Bangladesh</sub><br/> 
     **Bachelor of Science in Computer Science and Engineering (BS CSE)**<br/>
     **Attended** - January 2015 to December 2018.<br/>
     **Specialized Trail** - Artificial Intelligence<br/>
