@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Asif Ahmed Neloy"
   avatar           : "profile.png"
-  bio              : "**Information Analyst** and **Lab Instructor**"
+  bio              : "Information Analyst and Lab Instructor"
   location         : #"Location"
-  employer         :
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "asif.neloy@northsouth.edu"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  Kaggle           : "https://www.kaggle.com/aaneloy"
 
 
 # Reading Files
