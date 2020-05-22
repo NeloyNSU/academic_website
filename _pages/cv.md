@@ -15,8 +15,7 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
     **Bachelor of Science in Computer Science and Engineering (BS CSE)**<br/>
     **Attended** - January 2015 to December 2018.<br/>
     **Specialized Trail** - Artificial Intelligence<br/>
-    **Thesis** - *Early Health Prediction System for ICU Patient using Machine Learning and Cloud*
-      Computing<br/>
+    **Thesis** - <a href="https://easychair.org/publications/preprint/X3lJ" target="_blank">*Early Health Prediction System for ICU Patient using Machine Learning and Cloud Computing.*</a> <br/>
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
