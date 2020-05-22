@@ -13,6 +13,7 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
 ======
 * North South University
     **Bachelor of Science in Computer Science and Engineering (BS CSE)**
+    **Attended** - January 2015 to December 2018.
     **Specialized Trail** - Artificial Intelligence
     **Thesis** - *Early Health Prediction System for ICU Patient using Machine Learning and Cloud*
       Computing
