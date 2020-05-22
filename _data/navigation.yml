@@ -6,11 +6,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /Research/
         
   - title: "Projects"
     url: /year-archive/
     
-  - title: "Research"
+  - title: "Portfolio"
     url: /cv/
