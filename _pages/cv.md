@@ -11,7 +11,11 @@ redirect_from:
 
 Education <i class="fa fa-university" aria-hidden="true"></i>
 ======
-* Bachelor of Science in Computer Science and Engineering (BS CSE)
+* North South University
+    **Bachelor of Science in Computer Science and Engineering (BS CSE)**
+    **Specialized Trail** - Artificial Intelligence
+    **Thesis** - *Early Health Prediction System for ICU Patient using Machine Learning and Cloud*
+      Computing
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
