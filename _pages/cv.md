@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Personal Details"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education <i class="fa fa-university" aria-hidden="true"></i>
 ======
-* <i class="fa fa-university" aria-hidden="true"></i> Bachelor of Science in Computer Science and Engineering (BS CSE)
+* Bachelor of Science in Computer Science and Engineering (BS CSE)
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
