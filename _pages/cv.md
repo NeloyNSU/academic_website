@@ -21,7 +21,11 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
     **Attended** - July 2012 to May 2014.<br/>
     **Group** - Science <br/>
     **G.P.A** - 5.00/5.00<br/>
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Mymensingh Zilla School**, <sub>Mymensingh Sadar 2200, Mymensingh, Bangladesh</sub><br/> 
+    **Secondary School Certificate (SSC)**<br/>
+    **Attended** - Januray 2010 to March 2012.<br/>
+    **Group** - Science <br/>
+    **G.P.A** - 5.00/5.00<br/>
 
 Work experience
 ======
