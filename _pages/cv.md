@@ -65,12 +65,9 @@ Skills <i class="fa fa-star" aria-hidden="true"></i>
   * Sub-skill 2.3
 * Skill 3
   
-Teaching <i class="fa fa-users" aria-hidden="true"></i>
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Academic Honours and Awards <i class="fa fa-trophy" aria-hidden="true"></i>
 ======
-* Currently signed in to 43 different slack teams
+* Certified Mentor of <a href="https://www.linkedin.com/in/aaneloy/detail/treasury/education:383616052/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACACUDUBQrIIuTeRsUyZ5M5aVU0E2z-FznE%2C1556565004607)&section=education%3A383616052&treasuryCount=4" target="_blank"> **Robotics**</a> and <a href="https://www.linkedin.com/in/aaneloy/detail/treasury/education:383616052/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACACUDUBQrIIuTeRsUyZ5M5aVU0E2z-FznE%2C1556565004425)&section=education%3A383616052&treasuryCount=4" target="_blank"> **Machine learning** </a>.
+\item Won the \href{https://www.daily-sun.com/arcprint/details/359183/Innovation-Challenge-at-NSU/2018-12-24}{$1^{st}$ Runner Up} prize for the Undergraduate Capstone Project, Capstone Innovation Challenge, Season 6, 2018.
+\item Runner up - IEEE day Hackathon 2017.
+\item Junior Board Scholarship (Class 8) for excellent academic result.
