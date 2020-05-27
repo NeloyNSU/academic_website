@@ -16,16 +16,19 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
     **Attended** - January 2015 to December 2018.<br/>
     **Specialized Trail** - Artificial Intelligence<br/>
     **Thesis** - <a href="https://easychair.org/publications/preprint/X3lJ" target="_blank">*Early Health Prediction System for ICU Patient using Machine Learning and Cloud Computing.*</a> <br/>
+    <br/>
 * **Govt Ananda Mohan College**, <sub>Mymensingh Sadar 2200, Mymensingh, Bangladesh</sub><br/> 
     **Higher Secondary School Certificate (HSC)**<br/>
     **Attended** - July 2012 to May 2014.<br/>
     **Group** - Science <br/>
     **G.P.A** - 5.00/5.00<br/>
+    <br/>
 * **Mymensingh Zilla School**, <sub>Mymensingh Sadar 2200, Mymensingh, Bangladesh</sub><br/> 
     **Secondary School Certificate (SSC)**<br/>
     **Attended** - Januray 2010 to March 2012.<br/>
     **Group** - Science <br/>
     **G.P.A** - 5.00/5.00<br/>
+    <br/>
 
 Work experience
 ======
