@@ -56,14 +56,13 @@ Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
       keep records; distribute and copy reading materials; prepare answer keys or supplementary notes, and act as the course web-master.
     * Assisting faculty with recordkeeping, such as tracking attendance and calculating grades.<br/>
   
-Skills <i class="fa fa-star" aria-hidden="true"></i>
+Technical Skills <i class="fa fa-star" aria-hidden="true"></i>
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming and Scripting Languages:** Python, C++, C, HTML, XML, SQL, Julia, R, Assembly, Windows Azure, Shell Scripting.
+* **Operating Systems:** Windows, Linux.
+* **Data Science Tools:** Tableau, SPSS, MATLAB, Apache Spark. Anaconda
+* **Platforms:** IBM Cloud, IBM Watson Studio, Jupyter, PyCharm, GIT, UNIX Systems, Docker, Arduino.
+* **Database Tools:** Oracle, MySql, DB2, CloudScape, MS-Access. <br/>
   
 Academic Honours and Awards <i class="fa fa-trophy" aria-hidden="true"></i>
 ======
