@@ -16,7 +16,11 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
     **Attended** - January 2015 to December 2018.<br/>
     **Specialized Trail** - Artificial Intelligence<br/>
     **Thesis** - <a href="https://easychair.org/publications/preprint/X3lJ" target="_blank">*Early Health Prediction System for ICU Patient using Machine Learning and Cloud Computing.*</a> <br/>
-* M.S. in Jekyll, GitHub University, 2014
+* **Govt Ananda Mohan College**, <sub>Mymensingh Sadar 2200, Mymensingh, Bangladesh</sub><br/> 
+    **Higher Secondary School Certificate (HSC)**<br/>
+    **Attended** - July 2012 to May 2014.<br/>
+    **Group** - Science</br>
+    **G.P.A** - 5.00/5.00<br/>
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
