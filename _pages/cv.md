@@ -32,7 +32,7 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
 
 Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
 ======
-* <span style="font-size:larger;">**Information Analyst**</span> @ <a href="http://www.aci-bd.com/" target="_blank"> **Advanced Chemical Industries (ACI Ltd.)**</a>, <sub>ACI Centre 245, Tejgaon Industrial Area, Dhaka-1208, Bangladesh.</sub><br/> 
+* <span style="font-size:larger;">**Information Analyst (January 2020 - Present)**</span> @ <a href="http://www.aci-bd.com/" target="_blank"> **Advanced Chemical Industries (ACI Ltd.)**</a>, <sub>ACI Centre 245, Tejgaon Industrial Area, Dhaka-1208, Bangladesh.</sub><br/> 
   * **Responsibilities Include:**
     * Interpret and translate data into valuable information using different machine learning models
       for effective analysis purposes.
@@ -42,11 +42,13 @@ Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
       proper training and guidelines. 
   * **Projects:**
     * Please refer here. <br/>
-    
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* <span style="font-size:larger;">**Lab Officer (May 2019 - Present)**</span> @ <a href="http://ece.northsouth.edu/" target="_blank"> **Dept of ECE, North South University**</a>, <sub> Bashundhara R/A, Dhaka 1229, Bangladesh.</sub><br/> 
+  * **Responsibilities Include:**
+    * Responsible for conducting the lab classes of the enrolled students.
+    * Lab Coursework includes implementing algorithms and theoretical concepts with respective programming languages as deemed necessary by 
+      the course curriculum.
+    * Also responsible for grading and marking the students in their lab classes. <br/>
   
 Skills <i class="fa fa-star" aria-hidden="true"></i>
 ======
