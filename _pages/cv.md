@@ -32,7 +32,7 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
 
 Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
 ======
-* Summer 2015: Research Assistant
+* <a href="http://www.aci-bd.com/" target="_blank"> **Advanced Chemical Industries (ACI Ltd.)**, <sub>Mymensingh Sadar 2200, Mymensingh, Bangladesh</sub><br/> 
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
