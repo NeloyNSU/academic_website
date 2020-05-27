@@ -30,7 +30,7 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
     **G.P.A** - 5.00/5.00<br/>
     <br/>
 
-Work experience
+Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -42,7 +42,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Skills <i class="fa fa-bar-chart" aria-hidden="true"></i>
 ======
 * Skill 1
 * Skill 2
@@ -50,25 +50,13 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+Teaching <i class="fa fa-users" aria-hidden="true"></i>
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and leadership <i class="fa fa-trophy" aria-hidden="true"></i>
 ======
 * Currently signed in to 43 different slack teams
