@@ -33,9 +33,13 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
 Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
 ======
 * <span style="font-size:larger;">**Information Analyst**</span> @ <a href="http://www.aci-bd.com/" target="_blank"> **Advanced Chemical Industries (ACI Ltd.)**</a>, <sub>ACI Centre 245, Tejgaon Industrial Area, Dhaka-1208, Bangladesh.</sub><br/> 
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * **Responsibilities Include:**
+    * Interpret and translate data into valuable information using different machine learning models
+      for effective analysis purposes.
+    * Analyze client's requirements to provide suggestions in order to deliver products that are aligned
+      with the ultimate business requirement.
+    * Oversee implementation of a new system, support users in adapting to the system by ensuring
+      proper training and guidelines. <br/>
 
 * Fall 2015: Research Assistant
   * Github University
