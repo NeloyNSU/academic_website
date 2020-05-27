@@ -39,8 +39,10 @@ Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
     * Analyze client's requirements to provide suggestions in order to deliver products that are aligned
       with the ultimate business requirement.
     * Oversee implementation of a new system, support users in adapting to the system by ensuring
-      proper training and guidelines. <br/>
-
+      proper training and guidelines. 
+  * **Projects:**
+    * Please refer here. <br/>
+    
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
