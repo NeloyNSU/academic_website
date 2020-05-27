@@ -10,7 +10,7 @@ main:
     url: /research/
         
   - title: "Projects"
-    url: /year-archive/
+    url: /projects/
     
   - title: "Portfolio"
     url: /cv/
