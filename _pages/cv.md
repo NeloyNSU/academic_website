@@ -42,7 +42,7 @@ Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills <i class="fa fa-bar-chart" aria-hidden="true"></i>
+Skills <i class="fa fa-star" aria-hidden="true"></i>
 ======
 * Skill 1
 * Skill 2
@@ -57,6 +57,6 @@ Teaching <i class="fa fa-users" aria-hidden="true"></i>
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership <i class="fa fa-trophy" aria-hidden="true"></i>
+Academic Honours and Awards <i class="fa fa-trophy" aria-hidden="true"></i>
 ======
 * Currently signed in to 43 different slack teams
