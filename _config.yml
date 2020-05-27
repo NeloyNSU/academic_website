@@ -93,7 +93,10 @@ author:
   orcid            : "https://orcid.org/0000-0002-2289-2762"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : "seductedneloy"
-  Kaggle           : "https://www.kaggle.com/aaneloy"
+  kaggle           : "https://www.kaggle.com/aaneloy"
+  publons          : "https://publons.com/researcher/1671117/asif-ahmed-neloy/"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57209104787"
+
 
 
 # Reading Files
