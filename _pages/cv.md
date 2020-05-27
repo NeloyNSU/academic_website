@@ -49,6 +49,12 @@ Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
     * Lab Coursework includes implementing algorithms and theoretical concepts with respective programming languages as deemed necessary by 
       the course curriculum.
     * Also responsible for grading and marking the students in their lab classes. <br/>
+
+* <span style="font-size:larger;">**Undergraduate Teaching Assistant (UGA) (January 2019 - May 2019)**</span> @ <a href="http://ece.northsouth.edu/" target="_blank"> **Dept of ECE, North South University**</a>, <sub> Bashundhara R/A, Dhaka 1229, Bangladesh.</sub><br/> 
+  * **Responsibilities Include:**
+    * Facilitate a discussion section or tutorial; hold weekly office hours; grade homework, programming assignments, exams, or projects; 
+      keep records; distribute and copy reading materials; prepare answer keys or supplementary notes, and act as the course web-master.
+    * Assisting faculty with recordkeeping, such as tracking attendance and calculating grades.<br/>
   
 Skills <i class="fa fa-star" aria-hidden="true"></i>
 ======
