@@ -32,7 +32,7 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
 
 Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
 ======
-* <a href="http://www.aci-bd.com/" target="_blank"> **Advanced Chemical Industries (ACI Ltd.)**, <sub>Mymensingh Sadar 2200, Mymensingh, Bangladesh</sub><br/> 
+* <span style="font-size:larger;">**Information Analyst**</span> @ <a href="http://www.aci-bd.com/" target="_blank"> **Advanced Chemical Industries (ACI Ltd.)**, <sub>ACI Centre 245, Tejgaon Industrial Area, Dhaka-1208, Bangladesh.</sub><br/> 
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
