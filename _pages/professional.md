@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /professional/
-title: "Professional Activities"
+title: ""
 author_profile: true
 ---
 
