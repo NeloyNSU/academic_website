@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+Technical Skills <i class="fa fa-star" aria-hidden="true"></i>
+======
+* **Programming and Scripting Languages:** Python, C++, C, HTML, XML, SQL, Julia, R, Assembly, Windows Azure, Shell Scripting.
+* **Operating Systems:** Windows, Linux.
+* **Data Science Tools:** Tableau, SPSS, MATLAB, Apache Spark. Anaconda.
+* **Platforms:** IBM Cloud, IBM Watson Studio, Jupyter, PyCharm, GIT, UNIX Systems, Docker, Arduino.
+* **Database Tools:** Oracle, MySql, DB2, CloudScape, MS-Access. <br/>
+
 Research Interest <i class="fa fa-rocket" aria-hidden="true"></i>
 ======
 <p style="text-align:justify;">My primary field of research interest is <b>Artificial Intelligence (AI)</b>. Within AI, I am interested in problems related to <b>Probabilistic Modeling, Applied Machine Learning, Health Data Mining</b>, and interdisciplinary applications of <b>Computer Vision</b> in Robotics. My research revolves around understanding the fundamental principles of statistical machine learning, designing scalable algorithms with guarantees, and rigorously analyzing their computational and information-theoretic properties. Moreover, with the help of modeling and scheme of AI, I have also a substantial overview in the field of Robotics, more precisely – <b>Design Analysis, Path Finding, Robot Vision, Object Tracking</b> and application of <b>Probabilistic Models</b> to the Segmentation problem.</p>

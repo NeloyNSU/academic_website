@@ -55,15 +55,7 @@ Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
     * Facilitate a discussion section or tutorial; hold weekly office hours; grade homework, programming assignments, exams, or projects; 
       keep records; distribute and copy reading materials; prepare answer keys or supplementary notes, and act as the course web-master.
     * Assisting faculty with recordkeeping, such as tracking attendance and calculating grades.<br/>
-  
-Technical Skills <i class="fa fa-star" aria-hidden="true"></i>
-======
-* **Programming and Scripting Languages:** Python, C++, C, HTML, XML, SQL, Julia, R, Assembly, Windows Azure, Shell Scripting.
-* **Operating Systems:** Windows, Linux.
-* **Data Science Tools:** Tableau, SPSS, MATLAB, Apache Spark. Anaconda.
-* **Platforms:** IBM Cloud, IBM Watson Studio, Jupyter, PyCharm, GIT, UNIX Systems, Docker, Arduino.
-* **Database Tools:** Oracle, MySql, DB2, CloudScape, MS-Access. <br/>
-  
+    
 Academic Honours and Awards <i class="fa fa-trophy" aria-hidden="true"></i>
 ======
 * Certified Mentor of <a href="https://www.linkedin.com/in/aaneloy/detail/treasury/education:383616052/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACACUDUBQrIIuTeRsUyZ5M5aVU0E2z-FznE%2C1556565004607)&section=education%3A383616052&treasuryCount=4" target="_blank"> **Robotics**</a> and <a href="https://www.linkedin.com/in/aaneloy/detail/treasury/education:383616052/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACACUDUBQrIIuTeRsUyZ5M5aVU0E2z-FznE%2C1556565004425)&section=education%3A383616052&treasuryCount=4" target="_blank"> **Machine learning** </a>.
