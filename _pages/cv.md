@@ -15,7 +15,7 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
     **Bachelor of Science in Computer Science and Engineering (BS CSE)**<br/>
     **Attended** - January 2015 to December 2018.<br/>
     **Specialized Trail** - Artificial Intelligence<br/>
-    **Thesis** - <a href="https://easychair.org/publications/preprint/X3lJ" target="_blank">*Early Health Prediction System for ICU Patient using Machine Learning and Cloud Computing.*</a> <br/>
+    **Thesis** - <a href="https://www.researchgate.net/publication/336445284_Early_Health_Prediction_System_for_ICU_Patient_using_Machine_Learning_and_Cloud_Computing" target="_blank">*Early Health Prediction System for ICU Patient using Machine Learning and Cloud Computing.*</a> <br/>
     <br/>
 * **Govt Ananda Mohan College**, <sub>Mymensingh Sadar 2200, Mymensingh, Bangladesh</sub><br/> 
     **Higher Secondary School Certificate (HSC)**<br/>
@@ -60,7 +60,7 @@ Technical Skills <i class="fa fa-star" aria-hidden="true"></i>
 ======
 * **Programming and Scripting Languages:** Python, C++, C, HTML, XML, SQL, Julia, R, Assembly, Windows Azure, Shell Scripting.
 * **Operating Systems:** Windows, Linux.
-* **Data Science Tools:** Tableau, SPSS, MATLAB, Apache Spark. Anaconda
+* **Data Science Tools:** Tableau, SPSS, MATLAB, Apache Spark. Anaconda.
 * **Platforms:** IBM Cloud, IBM Watson Studio, Jupyter, PyCharm, GIT, UNIX Systems, Docker, Arduino.
 * **Database Tools:** Oracle, MySql, DB2, CloudScape, MS-Access. <br/>
   
