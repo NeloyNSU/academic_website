@@ -31,5 +31,7 @@ Book Chapter
 Peer-Reviewed Conference Paper
 ======
 <ul>
-	<li><p style="text-align:justify;"> Bindu, R. A., Neloy, A. A., Alam, S., Moni, N. J., & Siddique, S. (2019, November).Sigma-3: Integration and Analysis of a 6 DOF Robotic Arm Configuration in a Rescue Robot. In 2019 4th International Conference on Robotics and Automation Engineering (ICRAE) (pp.6-11). IEEE. <a href="https://ieeexplore.ieee.org/document/9043799/" target="_blank">DOI:https://doi.org/10.1109/ICRAE48301.2019.9043799</a></p> </li>
+	<li><p style="text-align:justify;"> Bindu, R. A., <b>Neloy, A. A.</b>, Alam, S., Moni, N. J., & Siddique, S. (2019, November). <b>Sigma-3: Integration and Analysis of a 6 DOF Robotic Arm Configuration in a Rescue Robot</b>. In <i>2019 4th International Conference on Robotics and Automation Engineering (ICRAE)</i>. (pp.6-11). IEEE. <a href="https://ieeexplore.ieee.org/document/9043799/" target="_blank">DOI:https://doi.org/10.1109/ICRAE48301.2019.9043799</a></p> </li>
+	<li><p style="text-align:justify;"> </p> </li>
+	
 
