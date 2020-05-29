@@ -10,6 +10,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+pdf version of the papers are available in <a href="https://www.researchgate.net/profile/Asif_Neloy" target="_blank">**ResearchGate**</a> Profile
+
 Refereed Journal 
 ======
 <ul>
@@ -28,4 +30,6 @@ Book Chapter
 
 Peer-Reviewed Conference Paper
 ======
+<ul>
+	<li><p style="text-align:justify;"> Bindu, R. A., Neloy, A. A., Alam, S., Moni, N. J., & Siddique, S. (2019, November).Sigma-3: Integration and Analysis of a 6 DOF Robotic Arm Configuration in a Rescue Robot. In 2019 4th International Conference on Robotics and Automation Engineering (ICRAE) (pp.6-11). IEEE. <a href="https://ieeexplore.ieee.org/document/9043799/" target="_blank">DOI:https://doi.org/10.1109/ICRAE48301.2019.9043799</a></p> </li>
 
