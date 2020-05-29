@@ -13,6 +13,6 @@ redirect_from:
 <br/>
 
 
-<a href="http://www.aci-bd.com/" target="_blank"> **Curriculum Vitae**</a>
+<a href="/files/Website_CV.pdf" target="_blank"> **Curriculum Vitae**</a>
 
 
