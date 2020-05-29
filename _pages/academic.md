@@ -30,7 +30,7 @@ Education <i class="fa fa-university" aria-hidden="true"></i>
     **G.P.A** - 5.00/5.00<br/>
     <br/>
 
-Work experience <i class="fa fa-user-plus" aria-hidden="true"></i>
+Work Experience <i class="fa fa-user-plus" aria-hidden="true"></i>
 ======
 * <span style="font-size:larger;">**Information Analyst (January 2020 - Present)**</span> @ <a href="http://www.aci-bd.com/" target="_blank"> **Advanced Chemical Industries (ACI Ltd.)**</a>, <sub>ACI Centre 245, Tejgaon Industrial Area, Dhaka-1208, Bangladesh.</sub><br/> 
   * **Responsibilities Include:**
