@@ -28,7 +28,7 @@ Book Chapter
 
 <p style="text-align:justify;">
 	<ul>
-	<li><b>Neloy, A. A.</b>, Bindu, R. A., Alam, S., Haque, R., Khan, M. S. A., Mishu, N. M., & Siddique, S. (2020, March). <b>Alpha-N: Shortest Path Finder Automated Delivery Robot with Obstacle Detection and Avoiding System</b>. <i>In Asian Conference on Intelligent Information and Database Systems</i>, (pp. 202-213). Springer, Cham. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-41964-6_18" target="_blank">DOI:https://doi.org/10.1007/978-3-030-41964-6_18</a></li>
+	<li> <b>Neloy, A. A.</b>, Bindu, R. A., Alam, S., Haque, R., Khan, M. S. A., Mishu, N. M., & Siddique, S. (2020, March). <b>Alpha-N: Shortest Path Finder Automated Delivery Robot with Obstacle Detection and Avoiding System</b>. <i>In Asian Conference on Intelligent Information and Database Systems</i>, (pp. 202-213). Springer, Cham. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-41964-6_18" target="_blank">DOI:https://doi.org/10.1007/978-3-030-41964-6_18</a> </li>
 	<li> <b>Neloy A.A.</b>, Shafayat Oshman M., Islam M.M., Hossain M.J., & Zahir Z.B. (2019). <b>Content Based Health Recommender System for ICU Patient</b>. In: <i>Chamchong R., Wong K. (eds) Multi-disciplinary Trends in Artificial Intelligence. MIWAI 2019. Lecture Notes in Computer Science</i>, vol 11909. Springer, Cham. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-33709-4_20" target="_blank">DOI:https://doi.org/10.1007/978-3-030-33709-4_20</a> </li>
 	</ul>
 </p>
