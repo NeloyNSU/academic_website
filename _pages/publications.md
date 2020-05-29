@@ -10,8 +10,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<p style="text-align:center;">pdf version of the papers are available in <a href="https://www.researchgate.net/profile/Asif_Neloy" target="_blank">**ResearchGate**</a> Profile</p>
-
 Refereed Journal 
 ======
 <ul>
@@ -35,3 +33,4 @@ Peer-Reviewed Conference Paper
 	<li><p style="text-align:justify;"> </p> </li>
 
 
+<p style="text-align:center;">pdf version of the papers are available in <a href="https://www.researchgate.net/profile/Asif_Neloy" target="_blank"><b>ResearchGate</b></a> Profile</p>
