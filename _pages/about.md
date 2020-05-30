@@ -12,6 +12,14 @@ redirect_from:
 
 <br/>
 
+**Contact Details:**
+   * Email: asif.neloy@northsouth.edu and neloyn@myumanitoba.ca
+   * Mobile: +8801860826446
+**Office Hours**
+   * Saturday (A) - 8.00 am to 7.00 pm
+   * Monday (M)   - 8.00 am to 9.30 am
+*You have to Make an appointment for Tuesday(T) and Wednesday (W)*
+
 
 <a href="/files/Website_CV.pdf" target="_blank"> **Curriculum Vitae**</a>
 
