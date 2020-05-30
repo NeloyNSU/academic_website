@@ -30,9 +30,20 @@ Peer-Reviewed Conference Paper
 ======
 <ul>
 	<li><p style="text-align:justify;"> Bindu, R. A., <b>Neloy, A. A.</b>, Alam, S., Moni, N. J., & Siddique, S. (2019, November). <b>Sigma-3: Integration and Analysis of a 6 DOF Robotic Arm Configuration in a Rescue Robot</b>. In <i>2019 4th International Conference on Robotics and Automation Engineering (ICRAE)</i>. (pp.6-11). IEEE. <a href="https://ieeexplore.ieee.org/document/9043799/" target="_blank">DOI: https://doi.org/10.1109/ICRAE48301.2019.9043799</a></p> </li>
-	<li><p style="text-align:justify;"> <b>Neloy, A. A.</b>, Alam, S., Bindu, R. A., & Moni, N. J. (2019, April). <b>Machine Learning based Health Prediction System using IBM Cloud as PaaS</b>. <i>In 2019 3rd International Conference on Trends in Electronics and Informatics (ICOEI)</i>. (pp. 444-450). IEEE. <a href="https://doi.org/10.1109/ICOEI.2019.8862754" target="_blank"> DOI: hhttps://doi.org/10.1109/ICOEI.2019.8862754</a></p> </li>
+	<li><p style="text-align:justify;"> <b>Neloy, A. A.</b>, Alam, S., Bindu, R. A., & Moni, N. J. (2019, April). <b>Machine Learning based Health Prediction System using IBM Cloud as PaaS</b>. <i>In 2019 3rd International Conference on Trends in Electronics and Informatics (ICOEI)</i>. (pp. 444-450). IEEE. <a href="https://ieeexplore.ieee.org/document/8862754" target="_blank"> DOI: https://doi.org/10.1109/ICOEI.2019.8862754</a></p> </li>
 	<li><p style="text-align:justify;"> Bindu, R. A., Alam, S., <b>Neloy, A.A. </b> (2019, March). <b>A Cost-Efficient Multipurpose Service Robot using Raspberry Pi and 6 DOF Robotic Arm </b>. <i>In Proceedings of the 2019 2nd International Conference on Service Robotics Technologies</i> (pp. 16-22). ACM. <a href="https://dl.acm.org/doi/10.1145/3325693.3325701" target="_blank"> DOI: https://doi.org/10.1145/3325693.3325701</a></p> </li>
 	<li><p style="text-align:justify;"> <b>Neloy, A. A.</b>, Haque, H. S., & Ul Islam, M. M. (2019, February). <b>Ensemble Learning Based Rental Apartment Price Prediction Model by Categorical Features Factoring</b>. <i>In Proceedings of the 2019 11th International Conference on Machine Learning and Computing</i> (pp. 350-356).ACM. <a href="https://dl.acm.org/doi/10.1145/3318299.3318377" target="_blank"> DOI: https://doi.org/10.1145/3318299.3318377</a></p> </li>
 </ul>
+<br/>
+
+Preprints
+======
+<ul>
+	<li><p style="text-align:justify;"> Bindu, R. A., <b>Neloy, A. A.</b>, Alam, S., Moni, N. J., & Siddique, S. (2019, November). <b>Sigma-3: Integration and Analysis of a 6 DOF Robotic Arm Configuration in a Rescue Robot</b>. In <i>2019 4th International Conference on Robotics and Automation Engineering (ICRAE)</i>. (pp.6-11). IEEE. <a href="https://ieeexplore.ieee.org/document/9043799/" target="_blank">DOI: https://doi.org/10.1109/ICRAE48301.2019.9043799</a></p> </li>
+	<li><p style="text-align:justify;"> <b>Neloy, A. A.</b>, Alam, S., Bindu, R. A., & Moni, N. J. (2019, April). <b>Machine Learning based Health Prediction System using IBM Cloud as PaaS</b>. <i>In 2019 3rd International Conference on Trends in Electronics and Informatics (ICOEI)</i>. (pp. 444-450). IEEE. <a href="https://ieeexplore.ieee.org/document/8862754" target="_blank"> DOI: https://doi.org/10.1109/ICOEI.2019.8862754</a></p> </li>
+	<li><p style="text-align:justify;"> Bindu, R. A., Alam, S., <b>Neloy, A.A. </b> (2019, March). <b>A Cost-Efficient Multipurpose Service Robot using Raspberry Pi and 6 DOF Robotic Arm </b>. <i>In Proceedings of the 2019 2nd International Conference on Service Robotics Technologies</i> (pp. 16-22). ACM. <a href="https://dl.acm.org/doi/10.1145/3325693.3325701" target="_blank"> DOI: https://doi.org/10.1145/3325693.3325701</a></p> </li>
+	<li><p style="text-align:justify;"> <b>Neloy, A. A.</b>, Haque, H. S., & Ul Islam, M. M. (2019, February). <b>Ensemble Learning Based Rental Apartment Price Prediction Model by Categorical Features Factoring</b>. <i>In Proceedings of the 2019 11th International Conference on Machine Learning and Computing</i> (pp. 350-356).ACM. <a href="https://dl.acm.org/doi/10.1145/3318299.3318377" target="_blank"> DOI: https://doi.org/10.1145/3318299.3318377</a></p> </li>
+</ul>
+<br/>
 
 <p style="text-align:center;">pdf version of the papers are available in <a href="https://www.researchgate.net/profile/Asif_Neloy" target="_blank"><b>ResearchGate</b></a> Profile</p>
