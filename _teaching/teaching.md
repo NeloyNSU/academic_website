@@ -59,3 +59,12 @@ CSE332L: Computer Organization and Architecture(Lab)
 <div align="justify"> <strong>Course Description:</strong> This course introduces students to the basic concepts of computers, their design and how they work. It encompasses the definition of the machine's instruction set architecture, its use in creating a program, and its implementation in hardware. We will study modern computer principles using a typical processor and emphasize system-level issues, understanding process performance, and the use of abstraction as a tool to manage complexity. We will employ both hardware and software tools to realize a small processor of our own. </div>
 
 <br/>
+
+CSE231L: Digital Logic Design(Lab)
+======
+
+**Summer 2019**
+
+<div align="justify"> <strong>Course Description:</strong> This course provides an introduction to logic design and basic tools for the design of digital logic systems. A basic idea of number systems will be provided, followed by a discussion on combinational logic: logic gates, Boolean algebra, minimization techniques, arithmetic circuits (adders, subtractors), basic digital circuits (decoders, encoders, multiplexers, shift registers), programmable logic devices (PROM, PAL, PLA). The course will then cover sequential circuits: flip-flops, state transition tables and diagrams, state minimization, state machines, design of synchronous/asynchronous counters, RAM/ROM design. An introduction to programmable logic will also be provided.</div>
+
+<br/>
