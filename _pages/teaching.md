@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-<a href="https://neloynsu.github.io/aaneloy_CSE311L/aaneloy_cse311L_Spring20.html" target="_blank">**CSE311L: Database Management System (Lab)**
+CSE311L: Database Management System (Lab)
 ======
 
 **Spring 2020**
@@ -16,7 +16,7 @@ author_profile: true
 
 <br/>
 
-<a href="https://neloynsu.github.io/aaneloy_CSE331L/aaneloy_cse331L.html" target="_blank">**CSE331L: Microprocessor Interfacing & Embedded System (Lab)**
+CSE331L: Microprocessor Interfacing & Embedded System (Lab)
 ======
 
 **Fall 2019, Spring 2020**
