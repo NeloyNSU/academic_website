@@ -39,5 +39,14 @@ CSE115L: Programming Language I(Lab)
 
 <br/>
 
+CSE482: Internet and Web Technology(Lab)
+======
 
+**Summer 2019**
+
+<a href="https://github.com/NeloyNSU/CSE482_Summer-19_Section7_github.io" target="_blank">**Course Website**
+
+<div align="justify"> <strong>Course Description:</strong> To introduce a student with the modern web development techniques in order to develop state-of-the-art web applications and that can be scalable with ease. The course provides a comprehensive overview of both front-end and back-end technologies like HTML5, CSS3, JavaScript, PHP and MYSQL. Upon completing the course, a learner will have a concise understanding of server- side and client-side programming knowledge.</div>
+
+<br/>
 
