@@ -13,7 +13,7 @@ redirect_from:
 <br/>
 
 **Contact Details:**
-   * **Email:** *asif.neloy@northsouth.edu* and *neloyn@myumanitoba.ca*
+   * **Email:** *_asif.neloy@northsouth.edu_* and *_neloyn@myumanitoba.ca_*
    * **Mobile:** +8801860826446
 
 **Office Hours**
