@@ -39,7 +39,7 @@ CSE115L: Programming Language I(Lab)
 
 <br/>
 
-CSE482: Internet and Web Technology(Lab)
+CSE482L: Internet and Web Technology(Lab)
 ======
 
 **Summer 2019**
@@ -50,3 +50,12 @@ CSE482: Internet and Web Technology(Lab)
 
 <br/>
 
+
+CSE332L: Computer Organization and Architecture(Lab)
+======
+
+**Summer 2019**
+
+<div align="justify"> <strong>Course Description:</strong> This course introduces students to the basic concepts of computers, their design and how they work. It encompasses the definition of the machine's instruction set architecture, its use in creating a program, and its implementation in hardware. We will study modern computer principles using a typical processor and emphasize system-level issues, understanding process performance, and the use of abstraction as a tool to manage complexity. We will employ both hardware and software tools to realize a small processor of our own. </div>
+
+<br/>
