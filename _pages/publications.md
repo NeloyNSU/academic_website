@@ -40,7 +40,7 @@ Preprints
 ======
 <ul>
 	<li><p style="text-align:justify;"> Bindu, R. A., <b>Neloy, A. A.</b>, Alam, S., & Siddique, S. (2020). <b>3-Survivor: A Rough Terrain Negotiable Teleoperated Mobile Rescue Robot with Passive Control Mechanism</b>. <a href="https://arxiv.org/abs/2003.05224v1" target="_blank">arXiv:2003.05224</a></p> </li>
-	<li><p style="text-align:justify;"> <b>Neloy, A. A.</b>, Oshman, M. S., Islam, M. M., Hossain, M. J., & Zahir, Z. B. (2019). <b>Early Health Prediction System for ICU Patient using Machine Learning and Cloud Computing</b>. <a href="https://easychair.org/publications/preprint/X3lJ" target="_blank"> (No. 1590).</a>EasyChair.</p> </li>
+	<li><p style="text-align:justify;"> <b>Neloy, A. A.</b>, Oshman, M. S., Islam, M. M., Hossain, M. J., & Zahir, Z. B. (2019). <b>Early Health Prediction System for ICU Patient using Machine Learning and Cloud Computing</b>. <a href="https://easychair.org/publications/preprint/X3lJ" target="_blank"> (No. 1590).</a> EasyChair.</p> </li>
 </ul>
 <br/>
 
