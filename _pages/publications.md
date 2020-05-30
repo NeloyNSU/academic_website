@@ -21,15 +21,17 @@ Refereed Journal
 Book Chapter 
 ======
 <ul>
-	<li> <p style="text-align:justify;"> <b>Neloy, A. A.</b>, Bindu, R. A., Alam, S., Haque, R., Khan, M. S. A., Mishu, N. M., & Siddique, S. (2020, March). <b>Alpha-N: Shortest Path Finder Automated Delivery Robot with Obstacle Detection and Avoiding System</b>. <i>In Asian Conference on Intelligent Information and Database Systems</i>, (pp. 202-213). Springer, Cham. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-41964-6_18" target="_blank">DOI:https://doi.org/10.1007/978-3-030-41964-6_18</a> </p> </li>
-	<li> <p style="text-align:justify;"><b>Neloy A.A.</b>, Shafayat Oshman M., Islam M.M., Hossain M.J., & Zahir Z.B. (2019). <b>Content Based Health Recommender System for ICU Patient</b>. In: <i>Chamchong R., Wong K. (eds) Multi-disciplinary Trends in Artificial Intelligence. MIWAI 2019. Lecture Notes in Computer Science</i>, vol 11909. Springer, Cham. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-33709-4_20" target="_blank">DOI:https://doi.org/10.1007/978-3-030-33709-4_20</a> </p> </li>
+	<li> <p style="text-align:justify;"> <b>Neloy, A. A.</b>, Bindu, R. A., Alam, S., Haque, R., Khan, M. S. A., Mishu, N. M., & Siddique, S. (2020, March). <b>Alpha-N: Shortest Path Finder Automated Delivery Robot with Obstacle Detection and Avoiding System</b>. <i>In Asian Conference on Intelligent Information and Database Systems</i>, (pp. 202-213). Springer, Cham. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-41964-6_18" target="_blank">DOI: https://doi.org/10.1007/978-3-030-41964-6_18</a> </p> </li>
+	<li> <p style="text-align:justify;"><b>Neloy A.A.</b>, Shafayat Oshman M., Islam M.M., Hossain M.J., & Zahir Z.B. (2019). <b>Content Based Health Recommender System for ICU Patient</b>. In: <i>Chamchong R., Wong K. (eds) Multi-disciplinary Trends in Artificial Intelligence. MIWAI 2019. Lecture Notes in Computer Science</i>, vol 11909. Springer, Cham. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-33709-4_20" target="_blank">DOI: https://doi.org/10.1007/978-3-030-33709-4_20</a> </p> </li>
 </ul>
 <br/>
 
 Peer-Reviewed Conference Paper
 ======
 <ul>
-	<li><p style="text-align:justify;"> Bindu, R. A., <b>Neloy, A. A.</b>, Alam, S., Moni, N. J., & Siddique, S. (2019, November). <b>Sigma-3: Integration and Analysis of a 6 DOF Robotic Arm Configuration in a Rescue Robot</b>. In <i>2019 4th International Conference on Robotics and Automation Engineering (ICRAE)</i>. (pp.6-11). IEEE. <a href="https://ieeexplore.ieee.org/document/9043799/" target="_blank">DOI:https://doi.org/10.1109/ICRAE48301.2019.9043799</a></p> </li>
+	<li><p style="text-align:justify;"> Bindu, R. A., <b>Neloy, A. A.</b>, Alam, S., Moni, N. J., & Siddique, S. (2019, November). <b>Sigma-3: Integration and Analysis of a 6 DOF Robotic Arm Configuration in a Rescue Robot</b>. In <i>2019 4th International Conference on Robotics and Automation Engineering (ICRAE)</i>. (pp.6-11). IEEE. <a href="https://ieeexplore.ieee.org/document/9043799/" target="_blank">DOI: https://doi.org/10.1109/ICRAE48301.2019.9043799</a></p> </li>
+	<li><p style="text-align:justify;"> </p> </li>
+	<li><p style="text-align:justify;"> Bindu, R. A., Alam, S., <b>Neloy, A.A. </b> (2019, March). <b>A Cost-Efficient Multipurpose Service Robot using Raspberry Pi and 6 DOF Robotic Arm </b>. <i>In Proceedings of the 2019 2nd International Conference on Service Robotics Technologies</i> (pp. 16-22). ACM. <a href="https://dl.acm.org/doi/10.1145/3325693.3325701" target="_blank"> DOI: https://doi.org/10.1145/3325693.3325701</a></p> </li>
 	<li><p style="text-align:justify;"> </p> </li>
 
 
