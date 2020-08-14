@@ -14,7 +14,6 @@ redirect_from:
 
 **Contact Details:**
    * **Email:** <a href = "mailto: asif.neloy@northsouth.edu">**_asif.neloy@northsouth.edu_**</a> and <a href = "mailto: neloyn@myumanitoba.ca">**_neloyn@myumanitoba.ca_**</a>
-   * **Mobile:** +8801860826446
 
 **Office Hours:**
    * Saturday (A) - **8.00 am to 7.00 pm**
