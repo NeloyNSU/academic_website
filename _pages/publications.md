@@ -13,6 +13,8 @@ author_profile: true
 Refereed Journal 
 ======
 <ul>
+	<li> <p style="text-align:justify;"> <b>Neloy, A. A.</b>, Alam, S., Bindu, R. A.,(2020, August). <b>Design and Implementation of a
+    Novel Hybrid Rental Apartment Recommender System</b>. <i>Advances in Data Science and Adaptive Analysis</i>. <a href="DOI: https://doi.org/10.1142/S2424922X2041003X" target="_blank">DOI: https://doi.org/10.1142/S2424922X2041003X</a> </p></li>
 	<li> <p style="text-align:justify;"> <b>Neloy, A. A.</b>, Bindu, R. A., Alam, S., Haque, R., Khan, M. S. A., Mishu, N. M., & Siddique, S. (2020, November). <b>Alpha-N-V2: Shortest Path Finder Automated Delivery Robot with Real-Time Object Detection and Avoiding System </b>. <i>Vietnam Journal of Computer Science (VJCS)</i>, Issue-7, No 4, Nov 2020. <a href="https://www.worldscientific.com/doi/abs/10.1142/S2196888820500219" target="_blank"> DOI: https://doi.org/10.1142/S2196888820500219</a></p></li>
 	<li> <p style="text-align:justify;"> <b>Neloy, A. A.</b>, Arman, A., Islam, M. S., & Motahar, T. (2018). <b>Automated Mobile Robot with RFID Scanner and Self Obstacle Avoiding System</b>. <i>International Journal of Pure and Applied Mathematics</i>, 118(18), 3139-3150. <a href="https://www.researchgate.net/publication/336837294_Automated_Mobile_Robot_with_RFID_Scanner_and_Self_Obstacle_Avoiding_System" target="_blank">(pdf Version)</a> </p></li>
 </ul>
