@@ -49,6 +49,13 @@ Work Experience <i class="fa fa-user-plus" aria-hidden="true"></i>
     * Lab Coursework includes implementing algorithms and theoretical concepts with respective programming languages as deemed necessary by 
       the course curriculum.
     * Also responsible for grading and marking the students in their lab classes. <br/>
+    
+* <span style="font-size:larger;">**Research Assistant (January 2019 - Present)**</span> @ <a href="http://ece.northsouth.edu/" target="_blank"> **Dept of ECE, North South University**</a>, <sub> Bashundhara R/A, Dhaka 1229, Bangladesh.</sub><br/> 
+  * **Responsibilities Include:**
+    * Implementing the mechanical design of coupling parts in robotic systems.
+    * Support the design of materials for the design of rescue robots.
+    * Work on a research project on the implementation of the navigation algorithm to mobile robots.
+    * Development of code and experimental platforms, running experiments, and analyzing data using machine learning. <br/>
 
 * <span style="font-size:larger;">**Undergraduate Teaching Assistant (UGA) (January 2019 - May 2019)**</span> @ <a href="http://ece.northsouth.edu/" target="_blank"> **Dept of ECE, North South University**</a>, <sub> Bashundhara R/A, Dhaka 1229, Bangladesh.</sub><br/> 
   * **Responsibilities Include:**
