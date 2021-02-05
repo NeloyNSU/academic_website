@@ -8,19 +8,25 @@ redirect_from:
 ---
 <br />
 
-<p style="text-align:justify;"> <strong>Asif Ahmed Neloy</strong> received the <strong>Bachelor of Science in Computer Science and Engineering (BS CSE)</strong> from North South University, Dhaka, Bangladesh. He is an <strong> Information Analyst </strong>at the Advanced Chemical Industries Limited (ACI Ltd). Also, he is serving as a part-time <strong> Lab Instructor</strong> at the Dept of ECE, North South University. Before that, he was an <strong>Undergraduate Teaching Assistant (UGA) </strong> of ECE, NSU. Neloy is the <strong>Founding Secretary (2017-2018)</strong> and <strong>Vice-Chair (2018-2019)</strong> of the NSU ACM Student Chapter, the first affiliated Student chapter of Bangladesh under ACM. For his contribution towards NSU ACM SC, he received the <strong>Service of Recognition</strong> award from ACM.<br/> <br/>His skills include <strong><i>machine learning, statistics, problem-solving, business analysis, algorithms, data visualization,</i></strong> and <strong><i>creative thinking</i></strong>.</p>
+<p style="text-align:justify;"> Asif Ahmed Neloy is currently enrolled as a first-year MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. He is working as a <b>Graduate Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>.<br/>
+
+Previously, as a part of academic, Asif served as a part-time <b>Lab Instructor</b>, <b>Graduate Teaching Assistant (GRA)</br>, <b>Graduate Research Assistant (GRA)</b>, and <b>Undergraduate Teaching Assistant (UGA)</b> at the Dept of Electrical and Computer Engineering (ECE), North South University. As a part of a leading Industrial brand of Bangladesh, <b>Advanced Chemical Industries Limited (ACI)</b>, Neloy serviced on a role of <b>Information Analyst</b> at the MIS dept.
+<br/>
+
+For his contribution towards NSU ACM SC, he received the <b>Service of Recognition</b> award from <b>ACM</b>.
+<br/>
+
+My primary field of research interest is <b>Statistical Data Science</b>. Within Data Science, I am interested in problems related to <b>Probabilistic Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>predictive modeling</b> and <b>visualization</b>.
+
+
+</p>
 
 <br/>
 
 **Contact Details:**
    * **Email:** <a href = "mailto: asif.neloy@northsouth.edu">**_asif.neloy@northsouth.edu_**</a> and <a href = "mailto: neloyn@myumanitoba.ca">**_neloyn@myumanitoba.ca_**</a>
 
-**Office Hours:**
-   * Saturday (A) - **8.00 am to 7.00 pm**
-   * Monday (M)   - **8.00 am to 9.30 am**
-
-*You have to Make an appointment for **Tuesday(T)** and **Wednesday (W)***
-
+<br/>
 
 <a href="/files/Website_CV.pdf" target="_blank"> **Curriculum Vitae**</a>
 
