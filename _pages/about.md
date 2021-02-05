@@ -8,7 +8,7 @@ redirect_from:
 ---
 <br />
 
-<p style="text-align:justify;"> Asif Ahmed Neloy is currently enrolled as a first-year MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. He is working as a <b>Graduate Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>.<br/>
+<p style="text-align:justify;"> Asif Ahmed Neloy is currently enrolled as a first-year MSc student at the <b>University of Manitoba</b>. He received his Bachelor of Science Degree in Computer Science and Engineering (BS CSE) from <b>North South University</b>, Dhaka, Bangladesh. He is working as a <b>Graduate Research Assistant</b> at the <b><a href="https://github.com/UMDimReduction" target="_blank">UofM Dimension Reduction Group</a></b>and also as a <b>Marker/Grader</b> at the Computer Science Department of the UofM.<br/>
 
 <br />
 
