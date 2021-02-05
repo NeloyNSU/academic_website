@@ -23,11 +23,7 @@ For his contribution towards NSU ACM SC, he received the <b>Service of Recogniti
 <br />
 
 My primary field of research interest is <b>Statistical Data Science</b>. Within Data Science, I am interested in problems related to <b>Probabilistic Modeling</b>, <b>Anomaly Detection</b>, <b>Dimension Reduction</b>, and interdisciplinary applications of <b>predictive modeling</b> and <b>visualization</b>.
-
-
 </p>
-
-<br/>
 
 **Contact Details:**
    * **Email:** <a href = "mailto: asif.neloy@northsouth.edu">**_asif.neloy@northsouth.edu_**</a> and <a href = "mailto: neloyn@myumanitoba.ca">**_neloyn@myumanitoba.ca_**</a>
