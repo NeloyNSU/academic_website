@@ -9,7 +9,7 @@ author_profile: true
 CSE311L: Database Management System (Lab)
 ======
 
-**Spring 2020**, **Summer 2020**
+**Spring 2020**, **Summer 2020**, **Fall 2020**
 
 <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU" target="_blank">**Course Website**
 
@@ -20,7 +20,7 @@ CSE311L: Database Management System (Lab)
 CSE331L: Microprocessor Interfacing & Embedded System (Lab)
 ======
 
-**Fall 2019, Spring 2020**, **Summer 2020**
+**Fall 2019, Spring 2020**, **Summer 2020**, **Fall 2020**
 
 <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU" target="_blank">**Course Website**
 
