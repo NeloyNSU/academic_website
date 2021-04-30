@@ -12,7 +12,7 @@ redirect_from:
 
 <br />
 
-Previously, as a part of academy, Asif served as a part-time <b>Lab Instructor</b>, <b>Graduate Teaching Assistant (GRA)</b>, <b>Graduate Research Assistant (GRA)</b>, and <b>Undergraduate Teaching Assistant (UGA)</b> at the Dept of Electrical and Computer Engineering (ECE), North South University. As a part of a leading Industrial brand of Bangladesh, <b>Advanced Chemical Industries Limited (ACI)</b>, Neloy serviced on a role of <b>Information Analyst</b> at the MIS dept.
+Previously, as a part of academy, Asif served as a part-time <b>Lab Instructor</b>, <b>Graduate Teaching Assistant (GTA)</b>, <b>Graduate Research Assistant (GRA)</b>, and <b>Undergraduate Teaching Assistant (UGA)</b> at the Dept of Electrical and Computer Engineering (ECE), North South University. As a part of a leading Industrial brand of Bangladesh, <b>Advanced Chemical Industries Limited (ACI)</b>, Neloy serviced on a role of <b>Information Analyst</b> at the MIS dept.
 <br/>
 
 <br />
